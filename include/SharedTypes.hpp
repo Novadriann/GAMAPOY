@@ -1,0 +1,1 @@
+// Content for include/SharedTypes.hpp
